@@ -1,13 +1,17 @@
 {
+  "uuid": "b46f5dad8d734a3d813cd21ddb17d6d3", 
+  "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "por_PT", 
   "image": null, 
-  "image_host": "http://thumbor.unicore.io", 
+  "logo_text": "Orienta\u00e7\u00f5es de especialistas", 
+  "logo_image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "uuid": "b46f5dad8d734a3d813cd21ddb17d6d3"
+  "logo_description": "Orienta\u00e7\u00f5es de especialistas", 
+  "image_host": "http://thumbor.unicore.io"
 }
